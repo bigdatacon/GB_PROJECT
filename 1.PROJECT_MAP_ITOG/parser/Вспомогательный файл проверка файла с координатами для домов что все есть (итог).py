@@ -6,7 +6,7 @@ import pprint
 
 from datetime import datetime
 """Это работает """
-# gmaps = googlemaps.Client(key='AIzaSyDepsv_CnygZyJEtiUUaAs495UaRCBxPg0')
+# gmaps = googlemaps.Client(key='')
 # geocode_result = gmaps.geocode(place)
 # print(geocode_result)
 
