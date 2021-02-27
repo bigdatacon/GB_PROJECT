@@ -5,7 +5,7 @@ import json
 import pprint
 import time
 import tqdm
-gmaps = googlemaps.Client(key='AIzaSyDepsv_CnygZyJEtiUUaAs495UaRCBxPg0')
+gmaps = googlemaps.Client(key='')
 from datetime import datetime
 with open("houses_obrabotannie.json", "r", encoding='utf-8') as read_file:
     data = json.load(read_file)
